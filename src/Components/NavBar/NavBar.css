@@ -1,0 +1,24 @@
+.navbar_barvontent{
+    height: 54px;
+    background-color: #fff;
+    border-bottom: 1px solid #dbdbdb;
+}
+.navbar_img{
+    margin: 15px 10px;
+    font-size: 20px;
+}
+.navbar_searchBar{
+    height: 30px;
+    width : 215px;
+    margin-top: 10px;
+    border: 1px solid #dbdbdb;
+    text-align: center;
+    background-color: #fafafa;
+    border-radius : 5px;
+}
+.navbar_Appname{
+    display: flex;
+    font-size: 1.5em;
+    padding-top: 10px;
+    font-weight: 600;
+}
